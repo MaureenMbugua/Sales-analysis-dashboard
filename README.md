@@ -61,10 +61,10 @@ Due to this, time-series analyses would be limited.
 
 #### Page 1: Sales and demand
 
-![Sales and demand page](Images/Sales_and_demand.png)
-
 The Sales and Demand page provides a view of market demand across products, segments, and countries.
 It helps understand which customer segments, markets, and products drive the most sales, as well as monthly sales trends.
+
+![Sales and demand page](Images/Sales_and_demand.png)
 
 The page allows users to:
 **KPIs:** View potential revenue from gross sales and total units sold, providing a quick snapshot of business scale and demand volume.
@@ -83,18 +83,46 @@ We also have a button on the top right through which we can easily navigate to o
 
 #### Page 2: Profitability
 
-![Profitability Page](Images/Profits.png)
-
 While the Sales and Demand page reveals market potential, this page shifts focus to profitability. It evaluates how much money the company actually makes after accounting for discounts and costs, and whether high sales value is translating into sustainable profit.
 
 Looking only at gross sales can create a false sense of success; this page provides a true reflection of financial performance, helping identify where revenue is strong but margins are weak and where cost or pricing strategies may need adjustment.
 
+![Profitability Page](Images/Profits.png)
+
+The page allows users to:
+**KPIs:** 
+  - **Net Revenue –** Actual money made from sales after discounts.
+
+  - **Gross Profit –** The earnings remaining after deducting the cost of goods sold (COGS).
+
+  - **Gross Margin % –** The proportion of profit retained from net revenue, showing efficiency and pricing strength.
+
+**Net Revenue by Segment:** View how much actual revenue each customer segment contributes after discounts.
+**Gross Profit and Margin % by Product:** Compare profitability across products, highlighting not only the value of the profits, but the actual profitability through the margin %.
+**Gross Profit and Margin % by Segment:** Compare profitability across customer segments, highlighting which customer groups are cost-efficient or heavily discounted.
+**Net Revenue vs. Profit Table:** Compare Net Revenue, Gross Profit, and Gross Margin % across countries, segments, and products to easily identify instances where high sales volume does not translate into profitability.
+It is sorted by Gross Margin % to help pinpoint underperforming areas.
 
 #### Page 3: Cost of Goods
 
-This page helps us understand the costs of goods involved and whether we can identify opportunities to increase efficiency or adjust pricing to cover costs and improve profits
+This page helps us understand the Costs of Goods involved. By comparing COGS to margins, manufacturing, and pricing, we can identify opportunities to reduce costs, adjust pricing, or optimize operations to improve profit margins.
 
 ![Cost of Goods Page](Images/COGS.png)
+
+The page allows users to:
+**KPIs:**
+
+  - **Total COGS –** Total Cost of Goods incurred across all sales.
+
+  - **COGS % –** COGS as a percentage of Gross revenue (Note: COGS% is measured against gross revenue rather than net revenue to avoid distortion from discounts.)
+**COGS% vs Gross Margin% by Prodcut:** Allows users to compare product cost intensity vs profitability.
+Reveals products where high COGS correspond to low margins, highlighting efficiency or pricing challenges.
+**Manufacturing vs non manufacturing % per product:** Compare the proportion of COGS related to manufacturing and non-manufacturing costs per product.
+**COGS vs Pricing:** Shows the relationship between COGS and pricing. Helps identify cases where high costs don’t translate to proportionately higher prices
+**Profit vs COGS breakdown and pricing table:**
+Enables detailed comparison of Gross Margin %, COGS %, manufacturing and non-manufacturing components, and average selling price.
+Sorted from lowest to highest Gross Margin %, allowing users to quickly pinpoint loss-making or underperforming combinations (by country, segment, and product).
+Supports strategic evaluation of whether cost efficiency or pricing adjustments can drive better margins.
 
 
 #### Page 4: Discounts 
