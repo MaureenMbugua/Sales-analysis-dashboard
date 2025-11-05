@@ -102,17 +102,17 @@ Looking only at gross sales can create a false sense of success; this page provi
 ![Profitability Page](Images/Profits.png)
 
 The page allows users to:
-**KPIs:** 
+- **KPIs:** 
   - **Net Revenue –** Actual money made from sales after discounts.
 
   - **Gross Profit –** The earnings remaining after deducting the cost of goods sold (COGS).
 
   - **Gross Margin % –** The proportion of profit retained from net revenue, showing efficiency and pricing strength.
 
-**Net Revenue by Segment:** View how much actual revenue each customer segment contributes after discounts.
-**Gross Profit and Margin % by Product:** Compare profitability across products, highlighting not only the value of the profits, but the actual profitability through the margin %.
-**Gross Profit and Margin % by Segment:** Compare profitability across customer segments, highlighting which customer groups are cost-efficient or heavily discounted.
-**Net Revenue vs. Profit Table:** Compare Net Revenue, Gross Profit, and Gross Margin % across countries, segments, and products to easily identify instances where high sales volume does not translate into profitability.
+- **Net Revenue by Segment:** View how much actual revenue each customer segment contributes after discounts.
+- **Gross Profit and Margin % by Product:** Compare profitability across products, highlighting not only the value of the profits, but the actual profitability through the margin %.
+- **Gross Profit and Margin % by Segment:** Compare profitability across customer segments, highlighting which customer groups are cost-efficient or heavily discounted.
+- **Net Revenue vs. Profit Table:** Compare Net Revenue, Gross Profit, and Gross Margin % across countries, segments, and products to easily identify instances where high sales volume does not translate into profitability.
 It is sorted by Gross Margin % to help pinpoint underperforming areas.
 
 #### Page 3: Cost of Goods
@@ -122,20 +122,19 @@ This page helps us understand the Costs of Goods involved. By comparing COGS to 
 ![Cost of Goods Page](Images/COGS.png)
 
 The page allows users to:
-**KPIs:**
+- **KPIs:**
 
   - **Total COGS –** Total Cost of Goods incurred across all sales.
 
   - **COGS % –** COGS as a percentage of Gross revenue (Note: COGS% is measured against gross revenue rather than net revenue to avoid distortion from discounts.)
-**COGS% vs Gross Margin% by Prodcut:** Allows users to compare product cost intensity vs profitability.
+- **COGS% vs Gross Margin% by Prodcut:** Allows users to compare product cost intensity vs profitability.
 Reveals products where high COGS correspond to low margins, highlighting efficiency or pricing challenges.
-**Manufacturing vs non manufacturing % per product:** Compare the proportion of COGS related to manufacturing and non-manufacturing costs per product.
-**COGS vs Pricing:** Shows the relationship between COGS and pricing. Helps identify cases where high costs don’t translate to proportionately higher prices
-**Profit vs COGS breakdown and pricing table:**
+- **Manufacturing vs non manufacturing % per product:** Compare the proportion of COGS related to manufacturing and non-manufacturing costs per product.
+- **COGS vs Pricing:** Shows the relationship between COGS and pricing. Helps identify cases where high costs don’t translate to proportionately higher prices
+- **Profit vs COGS breakdown and pricing table:**
 Enables detailed comparison of Gross Margin %, COGS %, manufacturing and non-manufacturing components, and average selling price.
 Sorted from lowest to highest Gross Margin %, allowing users to quickly pinpoint loss-making or underperforming combinations (by country, segment, and product).
 Supports strategic evaluation of whether cost efficiency or pricing adjustments can drive better margins.
-
 
 #### Page 4: Discounts 
 On this page, we get to see the impact of discounts on sales as well as profits and identify areas where a good balance needs to be striked such that profitability is not negatively affected.
